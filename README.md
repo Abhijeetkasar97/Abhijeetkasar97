@@ -65,7 +65,6 @@
 # 💻 Tech Stack:
 <!--  -->
 <!-- Coding -->
-![Vercel](https://img.shields.io/badge/vercel-%231f1e1f.svg?style=for-the-badge&logo=vercel&logoColor=%red) 
 ![vscode](https://img.shields.io/badge/vscode-%230078ff.svg?style=for-the-badge&logo=visualstudiocode&logoColor=%black) 
 ![NPM](https://img.shields.io/badge/npm-%23be3535.svg?style=for-the-badge&logo=npm&logoColor=%blue) 
 ![Gitbash](https://img.shields.io/badge/git-%23f27e42.svg?style=for-the-badge&logo=git&logoColor=%blue) 
@@ -74,11 +73,9 @@
 ![BootStrap](https://img.shields.io/badge/bootstrap-%23d1b3ff.svg?style=for-the-badge&logo=bootstrap&logoColor=%blue) 
 ![ReactJS](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%green) 
 ![PostMan](https://img.shields.io/badge/postman-%23ffa468.svg?style=for-the-badge&logo=postman&logoColor=%green) 
-![ShellScript](https://img.shields.io/badge/shellscript-%23323330.svg?style=for-the-badge&logo=shellscript&logoColor=%white) 
 ![MySQL](https://img.shields.io/badge/mysql-%230078ff.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-orange?style=for-the-badge&logo=MongoDB5&logoColor=white)
@@ -93,14 +90,10 @@
 <!--  -->
 ## 🧩 Soft Skills  
 
-| 💡 Skill | 💬 Description |
-|-----------|----------------|
-| 🌟 **Adaptability** | Thrive in dynamic environments by quickly learning new tools and adjusting to evolving project requirements. |
-| 🧠 **Problem-Solving** | Analyze complex issues, identify patterns, and design efficient, scalable solutions. |
-| 🔍 **Attention to Detail** | Ensure precision and quality in every task — from clean code to thorough documentation. |
-| 🤝 **Teamwork** | Collaborate seamlessly with peers, share knowledge, and contribute to achieving shared goals. |
-
----
+🌟 Adaptability  
+🧠 Problem-Solving  
+🔍 Attention to Detail  
+🤝 Teamwork  
 
 ## 📈 GitHub Stats  
 
