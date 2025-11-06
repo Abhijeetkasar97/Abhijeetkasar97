@@ -89,14 +89,12 @@
 ![Active Listening](https://img.shields.io/badge/activelistening-%231f1e1f.svg?style=for-the-badge&logo=activelistening&logoColor=%red) 
 <!--  -->
 ## 🧩 Soft Skills  
-
-🌟 Adaptability  
-🧠 Problem-Solving  
-🔍 Attention to Detail  
-🤝 Teamwork  
-
----
-
+<!--  -->
+![Adaptability](https://img.shields.io/badge/communications-%231f1e1f.svg?style=for-the-badge&logo=communications&logoColor=%red) 
+![Problem-Solving](https://img.shields.io/badge/patience-%231f1e1f.svg?style=for-the-badge&logo=patience&logoColor=%red) 
+![Attention to Detail](https://img.shields.io/badge/empathy-%231f1e1f.svg?style=for-the-badge&logo=empathy&logoColor=%red) 
+![🤝 Teamwork](https://img.shields.io/badge/activelistening-%231f1e1f.svg?style=for-the-badge&logo=activelistening&logoColor=%red) 
+<!--  -->
 ## 📈 GitHub Stats  
 
 ![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijeetkasar97&show_icons=true&theme=radical)  
