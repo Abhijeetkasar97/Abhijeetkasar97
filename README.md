@@ -91,3 +91,20 @@
 ![Empathy](https://img.shields.io/badge/empathy-%231f1e1f.svg?style=for-the-badge&logo=empathy&logoColor=%red) 
 ![Active Listening](https://img.shields.io/badge/activelistening-%231f1e1f.svg?style=for-the-badge&logo=activelistening&logoColor=%red) 
 <!--  -->
+## 🧩 Soft Skills  
+
+| 💡 Skill | 💬 Description |
+|-----------|----------------|
+| 🌟 **Adaptability** | Thrive in dynamic environments by quickly learning new tools and adjusting to evolving project requirements. |
+| 🧠 **Problem-Solving** | Analyze complex issues, identify patterns, and design efficient, scalable solutions. |
+| 🔍 **Attention to Detail** | Ensure precision and quality in every task — from clean code to thorough documentation. |
+| 🤝 **Teamwork** | Collaborate seamlessly with peers, share knowledge, and contribute to achieving shared goals. |
+
+---
+
+## 📈 GitHub Stats  
+
+![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijeetkasar97&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetkasar97&layout=compact&theme=radical)
+
+---
