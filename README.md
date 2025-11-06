@@ -95,9 +95,9 @@
 ![Attention to Detail](https://img.shields.io/badge/Attention--to--Detail-%231f1e1f.svg?style=for-the-badge&logo=microgenetics&logoColor=white)
 ![Teamwork](https://img.shields.io/badge/Teamwork-%231f1e1f.svg?style=for-the-badge&logo=handshake&logoColor=white)
 <!--  -->
-## 📈 GitHub Stats  
-
+## 📈 GitHub Stats:
+<!--  -->
 ![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijeetkasar97&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetkasar97&layout=compact&theme=radical)
+<!--  -->
 
----
