@@ -95,7 +95,7 @@
 🔍 Attention to Detail  
 🤝 Teamwork  
 
-## 📈 GitHub Stats  
+---
 
 ## 📈 GitHub Stats  
 
