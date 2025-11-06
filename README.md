@@ -1,80 +1,95 @@
 ## Hi there 👋
+# Roshankumar056
 
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23699
-Fork on GitHub
-8112
+<h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
 
-back to edit
+<div align="center">
+  <img
+    src="https://www.easewebs.com/web-logos/web-main.gif"
+    alt=""
+    width="300px"
+  />
+</div>
 
-copy-markdown
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com/?lines=Hi! I'm Biman Gharai 👦🏽;  Technical Support Engineer 👨🏻‍💻; Interested in working with team;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"
+      alt=""
+    />
+  </a>
+</div>
 
-download markdown
+<h3 align="center">An aspiring a Full-Stack Developer</h3>
 
-download backup
 
-markdown
-<h1 align="center">Hi 👋, I'm Abhijeet Kasar</h1>
-<h3 align="center">Exploring the full stack: from frontend design to backend logic.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetkasar97&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetkasar97" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeetkasar97" alt="abhijeetkasar97" /></a> </p>
 
-- 👨‍💻 My Portfilio [https://abhijeetkasarportfolio.netlify.app/](https://abhijeetkasarportfolio.netlify.app/)
+<br />
 
-- 👨‍💻 All of my projects are available at [https://abhijeetkasarportfolio.netlify.app/](https://abhijeetkasarportfolio.netlify.app/)
+<p>
+  🔭 I’m currently exploring and polishing my skills 🌍 I'm basically from
+  Bokaro,Jharkhand, India
+</p>
 
-- 💬 Ask me about **Reactjs, Express, Nodejs, JavaScript, MongoDB, MySQL, HTML, CSS**
+<!-- <p>
+  ⚛ Some technologies that I love to working with includes MERN stack,
+  Typescript & Web Testing.
+</p> -->
 
-- 📫 How to reach me **abhijeetkasar97@gmail.com**
+<p>
+  👨‍💻 My Portfilio -<a href="https://port-folio-silk-psi.vercel.app/" target="_blank">[Click here]</a>
+</p>
 
-- 📄 Know about my skills [https://drive.google.com/file/d/1Oe-TVuf6jTId_rWL0-8Bv4P0Kn-EJyU2/view?usp=drive_link](https://drive.google.com/file/d/1Oe-TVuf6jTId_rWL0-8Bv4P0Kn-EJyU2/view?usp=drive_link)
 
-- ⚡ Fun fact **I speak JavaScript fluently… sometimes even to humans 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/abhijeet-kasar-048938171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhijeet-kasar-048938171" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/pnv3dymqro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pnv3dymqro/" height="30" width="40" /></a>
+<p>
+  🚀 I have learned couple of skills in Tech like React, Redux, JavaScript, HTML, CSS
+  libraries like Chakra UI, Bootstrap & styled-components and skills in Customer service skills like communication, Troubleshooting, Patience, Actice listening. And in soft skills like Adaptability, Problem-solving, Attention to detail, Team work.
+</p>
+<p>📧 Email - roshankr056@gmail.com</p>
+<p>
+  📄 Know about my skills [Resume] -
+  <a
+    href="https://drive.google.com/file/d/1SJiNMvi8fwe-MWeF3JagXMXq0Fyp88va/view?usp=sharing" target="_blank"
+    >[Click here]</a
+  >
+</p>
+<p>
+  My LinkedIn profile -
+  <a href="https://www.linkedin.com/in/roshan-kumar056/" target="_blank">[Click here]</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetkasar97&show_icons=true&locale=en&layout=compact" alt="abhijeetkasar97" /></p>
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetkasar97&show_icons=true&locale=en" alt="abhijeetkasar97" /></p>
+# 💻 Tech Stack:
+<!--  -->
+<!-- Coding -->
+![Vercel](https://img.shields.io/badge/vercel-%231f1e1f.svg?style=for-the-badge&logo=vercel&logoColor=%red) 
+![vscode](https://img.shields.io/badge/vscode-%230078ff.svg?style=for-the-badge&logo=visualstudiocode&logoColor=%black) 
+![NPM](https://img.shields.io/badge/npm-%23be3535.svg?style=for-the-badge&logo=npm&logoColor=%blue) 
+![Gitbash](https://img.shields.io/badge/git-%23f27e42.svg?style=for-the-badge&logo=git&logoColor=%blue) 
+![Redux](https://img.shields.io/badge/redux-%236e71cc.svg?style=for-the-badge&logo=redux&logoColor=%blue)  
+![ChakraUI](https://img.shields.io/badge/chakraui-%2392e4e6.svg?style=for-the-badge&logo=chakraui&logoColor=%blue) 
+![BootStrap](https://img.shields.io/badge/bootstrap-%23d1b3ff.svg?style=for-the-badge&logo=bootstrap&logoColor=%blue) 
+![ReactJS](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%green) 
+![PostMan](https://img.shields.io/badge/postman-%23ffa468.svg?style=for-the-badge&logo=postman&logoColor=%green) 
+![ShellScript](https://img.shields.io/badge/shellscript-%23323330.svg?style=for-the-badge&logo=shellscript&logoColor=%white) 
+![MySQL](https://img.shields.io/badge/mysql-%230078ff.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-orange?style=for-the-badge&logo=MongoDB5&logoColor=white)
+<!--  -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetkasar97&" alt="abhijeetkasar97" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+# 📞 Customer Service Skills:
+<!--  -->
+![Communications](https://img.shields.io/badge/communications-%231f1e1f.svg?style=for-the-badge&logo=communications&logoColor=%red) 
+![Patience](https://img.shields.io/badge/patience-%231f1e1f.svg?style=for-the-badge&logo=patience&logoColor=%red) 
+![Empathy](https://img.shields.io/badge/empathy-%231f1e1f.svg?style=for-the-badge&logo=empathy&logoColor=%red) 
+![Active Listening](https://img.shields.io/badge/activelistening-%231f1e1f.svg?style=for-the-badge&logo=activelistening&logoColor=%red) 
+<!--  -->
