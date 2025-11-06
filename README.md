@@ -88,11 +88,11 @@
 ![Empathy](https://img.shields.io/badge/empathy-%231f1e1f.svg?style=for-the-badge&logo=empathy&logoColor=%red) 
 ![Active Listening](https://img.shields.io/badge/activelistening-%231f1e1f.svg?style=for-the-badge&logo=activelistening&logoColor=%red) 
 <!--  -->
-## 🧩 Soft Skills  
+# 🧩 Soft Skills:
 <!--  -->
-![Adaptability](https://img.shields.io/badge/Adaptability-%231f1e1f.svg?style=for-the-badge&logo=target&logoColor=white)  
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%231f1e1f.svg?style=for-the-badge&logo=codeforces&logoColor=white)  
-![Attention to Detail](https://img.shields.io/badge/Attention%20to%20Detail-%231f1e1f.svg?style=for-the-badge&logo=microgenetics&logoColor=white)  
+![Adaptability](https://img.shields.io/badge/Adaptability-%231f1e1f.svg?style=for-the-badge&logo=target&logoColor=white)
+![Problem-Solving](https://img.shields.io/badge/Problem--Solving-%231f1e1f.svg?style=for-the-badge&logo=codeforces&logoColor=white)
+![Attention to Detail](https://img.shields.io/badge/Attention--to--Detail-%231f1e1f.svg?style=for-the-badge&logo=microgenetics&logoColor=white)
 ![Teamwork](https://img.shields.io/badge/Teamwork-%231f1e1f.svg?style=for-the-badge&logo=handshake&logoColor=white)
 <!--  -->
 ## 📈 GitHub Stats  
