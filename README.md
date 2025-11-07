@@ -72,7 +72,7 @@ Here’s what I mostly work with:
 
 
 
-<h1 align="left"># 💻 Languages and Tools:</h1>
+# 💻 Tech Stack:<h1 align="left">Languages and Tools:</h1>
 <!--  -->
 <!-- Coding -->
 ![vscode](https://img.shields.io/badge/vscode-%230078ff.svg?style=for-the-badge&logo=visualstudiocode&logoColor=%black) 
