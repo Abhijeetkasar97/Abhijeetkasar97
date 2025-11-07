@@ -68,6 +68,34 @@ Here’s what I mostly work with:
 🍃 **MongoDB** – For handling NoSQL databases with flexibility.  
 🐬 **MySQL** – For structured and relational database operations.  
 
+# 💻 Technical Skills
+
+### 🧩 Core Web Technologies
+- HTML5, CSS3, JavaScript, TypeScript, JSON
+
+### ⚛️ Frontend Development
+- React.js, Redux, TanStack (React Query), Chakra UI, Tailwind CSS, Bootstrap
+- Webpack, Babel, ESLint, Responsive Design
+
+### 🧠 Backend Development
+- Node.js, Express.js, RESTful API, JWT Authentication, Mongoose, GraphQL
+
+### 🗄️ Databases
+- MongoDB, MySQL
+
+### 🔧 Tools & Platforms
+- GitHub, Postman, npm, VS Code
+
+### ☁️ Deployment & DevOps
+- Netlify, Render, Vercel, Heroku, Docker, Linux
+
+### 🧮 Additional Skills
+- Data Structures & Algorithms (DSA)
+- Axios, Query Optimization, API Integration
+
+---
+
+> 🚀 Proficient in building and deploying **full-stack MERN applications** with strong focus on **clean architecture, performance, and scalability**.
 
 
 
