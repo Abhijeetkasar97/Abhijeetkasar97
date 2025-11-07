@@ -72,8 +72,6 @@ Here’s what I mostly work with:
 
 <h1 align="left">Languages and Tools:</h1>
 
-<br />
-
 # 💻 Tech Stack:
 <!--  -->
 <!-- Coding -->
