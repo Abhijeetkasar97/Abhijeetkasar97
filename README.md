@@ -61,6 +61,14 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <br />
+### 💡 Most Used Technologies:
+Here’s what I mostly work with:
+- 🟨 **JavaScript (ES6+)** – My go-to language for both frontend and backend logic.
+- ⚛️ **React.js** – For building responsive and dynamic single-page applications.
+- 🎨 **HTML5 & CSS3** – For crafting structured and visually engaging UI.
+- 🌿 **Node.js** – For building scalable and efficient backend services.
+- 🍃 **MongoDB** – For handling NoSQL databases with flexibility.
+- 🐬 **MySQL** – For structured and relational database operations.
 
 # 💻 Tech Stack:
 <!--  -->
@@ -95,9 +103,8 @@
 ![Attention to Detail](https://img.shields.io/badge/Attention--to--Detail-%231f1e1f.svg?style=for-the-badge&logo=microgenetics&logoColor=white)
 ![Teamwork](https://img.shields.io/badge/Teamwork-%231f1e1f.svg?style=for-the-badge&logo=handshake&logoColor=white)
 <!--  -->
-## 📈 GitHub Stats:
-<!--  -->
-![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijeetkasar97&show_icons=true&theme=radical)  
+## 📈 GitHub Stats
+
+![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijeetkasar97&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetkasar97&layout=compact&theme=radical)
-<!--  -->
 
