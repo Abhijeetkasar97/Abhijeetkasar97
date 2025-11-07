@@ -62,13 +62,15 @@
 
 <br />
 ### 💡 Most Used Technologies:
-Here’s what I mostly work with:
-- 🟨 **JavaScript (ES6+)** – My go-to language for both frontend and backend logic.
-- ⚛️ **React.js** – For building responsive and dynamic single-page applications.
-- 🎨 **HTML5 & CSS3** – For crafting structured and visually engaging UI.
-- 🌿 **Node.js** – For building scalable and efficient backend services.
-- 🍃 **MongoDB** – For handling NoSQL databases with flexibility.
-- 🐬 **MySQL** – For structured and relational database operations.
+
+Here’s what I mostly work with:  
+🟨 **JavaScript (ES6+)** – My go-to language for both frontend and backend logic.  
+⚛️ **React.js** – For building responsive and dynamic single-page applications.  
+🎨 **HTML5 & CSS3** – For crafting structured and visually engaging UI.  
+🌿 **Node.js** – For building scalable and efficient backend services.  
+🍃 **MongoDB** – For handling NoSQL databases with flexibility.  
+🐬 **MySQL** – For structured and relational database operations.  
+
 
 # 💻 Tech Stack:
 <!--  -->
