@@ -58,10 +58,7 @@
   <a href="https://www.linkedin.com/in/abhijeet-kasar-048938171/" target="_blank">[Click here]</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<br />
-### 💡 Most Used Technologies:
+## 💡 Most Used Technologies:
 
 Here’s what I mostly work with:  
 🟨 **JavaScript (ES6+)** – My go-to language for both frontend and backend logic.  
@@ -71,6 +68,11 @@ Here’s what I mostly work with:
 🍃 **MongoDB** – For handling NoSQL databases with flexibility.  
 🐬 **MySQL** – For structured and relational database operations.  
 
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+<br />
 
 # 💻 Tech Stack:
 <!--  -->
