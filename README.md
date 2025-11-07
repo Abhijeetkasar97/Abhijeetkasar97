@@ -70,7 +70,7 @@ Here’s what I mostly work with:
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 
 <br />
 
