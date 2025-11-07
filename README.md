@@ -100,7 +100,7 @@ Here’s what I mostly work with:
 
 
 
-### 💻 Technical Skills Badges
+# 💻 Technical Skills Badges
 
 <!-- Languages & Core -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -151,20 +151,28 @@ Here’s what I mostly work with:
 ![DSA](https://img.shields.io/badge/dsa-%23ff9900.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
-# 📞 Customer Service Skills:
-<!--  -->
-![Communications](https://img.shields.io/badge/communications-%231f1e1f.svg?style=for-the-badge&logo=communications&logoColor=%red) 
-![Patience](https://img.shields.io/badge/patience-%231f1e1f.svg?style=for-the-badge&logo=patience&logoColor=%red) 
-![Empathy](https://img.shields.io/badge/empathy-%231f1e1f.svg?style=for-the-badge&logo=empathy&logoColor=%red) 
-![Active Listening](https://img.shields.io/badge/activelistening-%231f1e1f.svg?style=for-the-badge&logo=activelistening&logoColor=%red) 
-<!--  -->
-# 🧩 Soft Skills:
-<!--  -->
-![Adaptability](https://img.shields.io/badge/Adaptability-%231f1e1f.svg?style=for-the-badge&logo=target&logoColor=white)
-![Problem-Solving](https://img.shields.io/badge/Problem--Solving-%231f1e1f.svg?style=for-the-badge&logo=codeforces&logoColor=white)
-![Attention to Detail](https://img.shields.io/badge/Attention--to--Detail-%231f1e1f.svg?style=for-the-badge&logo=microgenetics&logoColor=white)
-![Teamwork](https://img.shields.io/badge/Teamwork-%231f1e1f.svg?style=for-the-badge&logo=handshake&logoColor=white)
-<!--  -->
+# 🌟 Soft Skills Badges
+![Leadership](https://img.shields.io/badge/Leadership-%2300BFFF.svg?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Teamwork-%23FF69B4.svg?style=for-the-badge)
+![Creativity](https://img.shields.io/badge/Creativity-%23FFA500.svg?style=for-the-badge)
+![Empathy](https://img.shields.io/badge/Empathy-%239ACD32.svg?style=for-the-badge)
+![Initiative](https://img.shields.io/badge/Initiative-%23FFD700.svg?style=for-the-badge)
+![Collaboration](https://img.shields.io/badge/Collaboration-%23DA70D6.svg?style=for-the-badge)
+![TimeManagement](https://img.shields.io/badge/Time_Management-%2300CED1.svg?style=for-the-badge)
+![Patience](https://img.shields.io/badge/Patience-%23FF7F50.svg?style=for-the-badge)
+![Resilience](https://img.shields.io/badge/Resilience-%238A2BE2.svg?style=for-the-badge)
+![Accountability](https://img.shields.io/badge/Accountability-%23008080.svg?style=for-the-badge)
+![CriticalThinking](https://img.shields.io/badge/Critical_Thinking-%23FF6347.svg?style=for-the-badge)
+![Dependability](https://img.shields.io/badge/Dependability-%2300FA9A.svg?style=for-the-badge)
+![Flexibility](https://img.shields.io/badge/Flexibility-%23BA55D3.svg?style=for-the-badge)
+![Motivation](https://img.shields.io/badge/Motivation-%23FFB6C1.svg?style=for-the-badge)
+![Negotiation](https://img.shields.io/badge/Negotiation-%2390EE90.svg?style=for-the-badge)
+![Organization](https://img.shields.io/badge/Organization-%23D2691E.svg?style=for-the-badge)
+![Positivity](https://img.shields.io/badge/Positivity-%23FF4500.svg?style=for-the-badge)
+![Integrity](https://img.shields.io/badge/Integrity-%232E8B57.svg?style=for-the-badge)
+![Confidence](https://img.shields.io/badge/Confidence-%23B22222.svg?style=for-the-badge)
+![Discipline](https://img.shields.io/badge/Discipline-%23008B8B.svg?style=for-the-badge)
+
 ## 📈 GitHub Stats
 
 ![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijeetkasar97&show_icons=true&theme=radical)
