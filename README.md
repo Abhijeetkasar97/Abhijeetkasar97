@@ -74,11 +74,11 @@ Here’s what I mostly work with:
 - HTML5, CSS3, JavaScript, TypeScript, JSON
 
 ### ⚛️ Frontend Development
-- React.js, Redux, TanStack (React Query), Chakra UI, Tailwind CSS, Bootstrap
-- Webpack, Babel, ESLint, Responsive Design
+- React.js, Redux, Tailwind CSS, Bootstrap
+- Babel, Responsive Design
 
 ### 🧠 Backend Development
-- Node.js, Express.js, RESTful API, JWT Authentication, Mongoose, GraphQL
+- Node.js, Express.js, RESTful API, JWT Authentication, Mongoose.
 
 ### 🗄️ Databases
 - MongoDB, MySQL
@@ -87,7 +87,7 @@ Here’s what I mostly work with:
 - GitHub, Postman, npm, VS Code
 
 ### ☁️ Deployment & DevOps
-- Netlify, Render, Vercel, Heroku, Docker, Linux
+- Netlify, Render, Vercel.
 
 ### 🧮 Additional Skills
 - Data Structures & Algorithms (DSA)
