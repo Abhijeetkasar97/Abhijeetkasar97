@@ -49,7 +49,7 @@
 <p>
   📄 Know about my skills [Resume] -
   <a
-    href="https://drive.google.com/file/d/1Hl53GtWi4xAGEXTCy59XFqOuhT_O224F/view?usp=sharing" target="_blank"
+    href="https://drive.google.com/file/d/19lSs5Z2PpYpn3oBVWEKONOJiC2gYHKAH/view?usp=sharing" target="_blank"
     >[Click here]</a
   >
 </p>
